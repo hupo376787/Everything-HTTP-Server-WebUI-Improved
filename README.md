@@ -15,4 +15,4 @@ For guides, please refer https://github.com/Ignorant12321/Everything-HTTP-Server
 
 
 # Extra
-For better experience, you can use [`TailScale`](https://tailscale.com/) from everywhere in the planet.
+For better experience, you can use [`TailScale`](https://tailscale.com/) to visit your files from everywhere in the planet.
