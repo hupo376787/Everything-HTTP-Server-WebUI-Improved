@@ -1,7 +1,7 @@
 # Everything-HTTP-Server-WebUI-Improved
 An improved version of Everything-HTTP-Server-WebUI, based on https://github.com/Ignorant12321/Everything-HTTP-Server-WebUI
 
-For guides, please refer https://github.com/Ignorant12321/Everything-HTTP-Server-WebUI
+For guides, please also refer https://github.com/Ignorant12321/Everything-HTTP-Server-WebUI
 
 # Improved
 1. Merge all files into index.html, avoid loading css and js error.
