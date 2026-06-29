@@ -12,3 +12,7 @@ For guides, please refer https://github.com/Ignorant12321/Everything-HTTP-Server
 
 # Overview
 ![overview](https://github.com/hupo376787/Everything-HTTP-Server-WebUI-Improved/blob/master/overview.jpg)
+
+
+# Extra
+For better experience, you can use [`TailScale`](https://tailscale.com/) from everywhere in the planet.
