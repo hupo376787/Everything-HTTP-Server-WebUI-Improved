@@ -15,4 +15,6 @@ For guides, please refer https://github.com/Ignorant12321/Everything-HTTP-Server
 
 
 # Extra
+You can use [`AList`](https://github.com/AlistGo/alist) as an alternative server, more powerful but a little complex.
+
 For better experience, you can use [`TailScale`](https://tailscale.com/) to visit your files from everywhere in the planet.
