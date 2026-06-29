@@ -5,9 +5,9 @@ For guides, please also refer https://github.com/Ignorant12321/Everything-HTTP-S
 
 # Improved
 1. Merge all files into index.html, avoid loading css and js error.
-2. Add navigate back, you can navigate back to previous folder, instead of leaving page. Mobile version too.
+2. Add navigation back, you can navigate back to previous folder, instead of leaving page. Mobile version too.
 3. Add extra large view.
-4. Add side preview open switch.
+4. Add side preview open/close switch.
 5. More coming...
 
 # Overview
